@@ -8,7 +8,7 @@ class ram_seq_item extends uvm_sequence_item;
   rand bit [3:0] addr;
   bit [7:0] d_out;
   
-  function new (name = "ram_seq_item");
+  function new (string name = "ram_seq_item");
     super.new(name);
   endfunction
   
