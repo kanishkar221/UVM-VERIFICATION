@@ -21,6 +21,7 @@ module top;
           .addr(vif.addr),
           .d_out(vif.d_out)
          );
+  
   initial begin
     uvm_config_db #(virtual ram_if)::set(null,"*","vif",vif);
     run_test ("ram_test");
@@ -32,7 +33,7 @@ module top;
     $dumpfile("ram_uvm.vcd");
     $dumpvars;
     vif.clk = 0;
-    #100;
+    #200;
     $finish;
   end
   
