@@ -1,1 +1,32 @@
-
+UVM_INFO environment.sv(10) @ 0: uvm_test_top.env [ENV] Environment Created
+UVM_INFO sequence.sv(11) @ 0: uvm_test_top.env.agent.sequencer@@seq [SEQ] Sequence starts
+UVM_INFO scoreboard.sv(25) @ 6: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=0  Actual q=0 || Expected q=0
+UVM_INFO scoreboard.sv(25) @ 16: uvm_test_top.env.sb [SB] PASS ----->  reset=1  d=1  Actual q=0 || Expected q=0
+UVM_INFO scoreboard.sv(25) @ 26: uvm_test_top.env.sb [SB] PASS ----->  reset=1  d=0  Actual q=0 || Expected q=0
+UVM_INFO scoreboard.sv(25) @ 36: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 46: uvm_test_top.env.sb [SB] PASS ----->  reset=1  d=0  Actual q=0 || Expected q=0
+UVM_INFO scoreboard.sv(25) @ 56: uvm_test_top.env.sb [SB] PASS ----->  reset=1  d=0  Actual q=0 || Expected q=0
+UVM_INFO scoreboard.sv(25) @ 66: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 76: uvm_test_top.env.sb [SB] PASS ----->  reset=1  d=0  Actual q=0 || Expected q=0
+UVM_INFO scoreboard.sv(25) @ 86: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 96: uvm_test_top.env.sb [SB] PASS ----->  reset=1  d=0  Actual q=0 || Expected q=0
+UVM_INFO scoreboard.sv(25) @ 106: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 116: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 126: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 136: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 146: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 156: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 166: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 176: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 186: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 196: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 206: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 216: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 226: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 236: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 246: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 256: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 266: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 276: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 286: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
+UVM_INFO scoreboard.sv(25) @ 296: uvm_test_top.env.sb [SB] PASS ----->  reset=0  d=1  Actual q=1 || Expected q=1
